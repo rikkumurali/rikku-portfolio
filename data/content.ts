@@ -7,7 +7,7 @@ export const profile = {
   "location": "Thrissur, Kerala, India",
   "availability": "Available immediately. Open to hybrid and remote roles in Kochi and beyond.",
   "email": "rikkumurali03@gmail.com",
-  "linkedin": "https://www.linkedin.com/in/rikku-kiranlal-9b766b180/",
+  "linkedin": "https://www.linkedin.com/in/rikku-muralidharan-9b766b180/",
   "github": "https://github.com/rikkumurali"
 };
 
